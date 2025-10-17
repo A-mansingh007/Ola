@@ -1,7 +1,4 @@
-Here is a short detailed description of your OLA Data Analyst project based on the provided file:
-
-You performed a comprehensive analysis on a synthetic dataset representing 100,000 ride bookings in Bengaluru for one month. The dataset included detailed columns such as booking status, vehicle type, locations, ride timings, cancellations by both drivers and customers, incomplete rides, booking value, payment methods, and ride ratings.
-
+I have performed a comprehensive analysis on a synthetic dataset representing 100,000 ride bookings in Bengaluru for one month. The dataset included detailed columns such as booking status, vehicle type, locations, ride timings, cancellations by both drivers and customers, incomplete rides, booking value, payment methods, and ride ratings.
 Key project activities included:
 Data cleaning and preparation to ensure realistic booking success and cancellation rates.
 Writing SQL queries to extract insights such as total successful bookings, average ride distances by vehicle type, cancellation counts by customers and drivers, top customers by ride frequency and booking value, and payment method analysis.
